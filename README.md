@@ -5,10 +5,13 @@
 #### By _**Mel Yasuda**_
 
 ## Description
-It is a web application where users can browse Instagram photos that have been popular during the season of their future trip, and they can save the photos. People nowadays plan trips based on locations where they can take photogenic pictures and post them on social media. Japan is a popular tourists destination that offers a variety of attractions depending on the season. Instagenic Japan will help tourists plan their Japan trip and get the best experience.
+It is a web application where users can browse Instagram photos that are popular in tourist destinations and plan trips based on that information. People nowadays plan trips based on locations where they can take photogenic pictures and post them on social media.
 
 ## MVP
-* Retrieving Instagram photos with hashtag "Japan" and sort by popularity by months
+* Retrieving Instagram popular photos in a given place and save photos you like as their trip itinerary.
+
+## Possible Additional Features
+* Google Maps search
 
 ## Setup/Installation Requirements
 1. Clone the following repository: https://github.com/MelYasuda/tap-room-react
