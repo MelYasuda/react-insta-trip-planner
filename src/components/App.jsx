@@ -1,6 +1,8 @@
 import React from 'react';
 //import PropTypes from 'prop-types';
 import { Switch, Route } from 'react-router-dom';
+import bootstrap from "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import Header from './Header';
 
 /*
   import { Link } from 'react-router-dom';
@@ -15,7 +17,7 @@ function App(){
       <style jsx>{`
         font-family: Helvetica;
       `}</style>
-      insta-trip-planner
+      <Header />
       {/* <Switch>
         <Route exact path='/' component={} />
       </Switch> */}
